@@ -1,0 +1,13 @@
+.resultadoCalc {
+    text-align: center;
+    background-color:#f3e3bf ;
+    padding: 10px 0;
+}
+
+h3{
+    font-size: 18px;
+}
+
+span{
+    color: rgb(250, 30, 30);
+}
